@@ -1,0 +1,6 @@
+ github | first_name | last_name | id | student_github | project_title | grade |  title  |             description             | max_grade 
+--------+------------+-----------+----+----------------+---------------+-------+---------+-------------------------------------+-----------
+ jhacks | Jane       | Hacker    |  1 | jhacks         | Markov        |    10 | Markov  | Tweets generated from Markov chains |        50
+ jhacks | Jane       | Hacker    |  2 | jhacks         | Blockly       |     2 | Blockly | Programmatic Logic Puzzle Game      |        10
+(2 rows)
+
